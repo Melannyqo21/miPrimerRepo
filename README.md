@@ -2,4 +2,6 @@
 
 Curso de platzi
 
-Mi primera contribución ocal para GitHub
+Mi primera contribución local para GitHub
+
+Un commit más desde GitHub
